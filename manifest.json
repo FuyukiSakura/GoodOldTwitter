@@ -16,8 +16,5 @@
         "https://twitter.com/*"
       ]
     }
-  ],
-  "background": {
-    "service_worker": "scripts/service-worker.js"
-  }
+  ]
 }
