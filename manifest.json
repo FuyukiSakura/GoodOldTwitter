@@ -14,7 +14,8 @@
       "js": ["scripts/content.js"],
       "matches": [
         "https://twitter.com/*"
-      ]
+      ],
+      "css": ["css/style.css"]
     }
   ]
 }
